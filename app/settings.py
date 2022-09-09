@@ -1,0 +1,7 @@
+valid_email = "natasha9126915640@gmail.com"
+valid_password = "123"
+invalid_email = "natasha@gmail.com"
+invalid_password = "546"
+invalid_email_2 = ""
+invalid_password_2 = ""
+invalid_key = "455afa125f3dbd88db3d2c4d12365c51e845cce48efa7ff564024512"
